@@ -1,0 +1,13 @@
+{
+    "name": "Geografia",
+    "alias": "geografia",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Geografia\\Providers\\GeografiaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
